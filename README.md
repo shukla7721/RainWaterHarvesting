@@ -20,10 +20,3 @@ A smart, sensor-driven rainwater harvesting solution designed to promote sustain
 | ML & Data    | NumPy, Pandas, Matplotlib, SciPy         |
 | Frontend     | HTML, CSS, JS (optional dashboard)       |
 | Deployment   | Localhost / Raspberry Pi (optional)      |
-
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/rainwater-harvesting.git
-   cd rainwater-harvesting
